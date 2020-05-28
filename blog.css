@@ -1,0 +1,13 @@
+.card-title{
+    font-weight:bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #B2CCFF
+  }
+  .card-subtitle{
+    font-size: 15px;
+    color: #BDBDBD;
+  }
+  .card-text{
+    margin-top:10px;
+    font-size:18px;
+  }
